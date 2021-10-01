@@ -1,5 +1,4 @@
 ```markdown
----
 # Front matter
 lang: ru-RU
 title: "Лабораторная работа № 2"
